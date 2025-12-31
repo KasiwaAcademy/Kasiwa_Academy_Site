@@ -2,3 +2,9 @@ baseURL = 'https://kasiwacademy.netlify.app/'
 languageCode = 'en-us'
 title = 'Kasiwa Academy'
 theme = 'ananke'
+
+[params]
+  subtitle = 'The home of online online Secondary Education in Malawi'
+  [params.contact]
+    email = 'kasiwaacademy@gmail.com'
+    phone = '+265 999-341-335'
