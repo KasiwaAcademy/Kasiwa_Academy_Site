@@ -4,7 +4,8 @@ title = 'Kasiwa Academy'
 theme = 'ananke'
 
 [params]
-  subtitle = 'The home of online online Secondary Education in Malawi'
-  [params.contact]
-    email = 'kasiwaacademy@gmail.com'
-    phone = '+265 999-341-335'
+  description = 'The home of online Secondary Education in Malawi'
+  email = 'kasiwaacademy@gmail.com'
+
+[params.contact]
+  phone = '+265 999-341-335'
